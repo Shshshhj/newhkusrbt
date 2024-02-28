@@ -1,7 +1,7 @@
 {
-    "name": "U-L-T-R-O-I-D",
-    "description": "telegram bot, made in python using Telethon.",
-    "logo": "https://graph.org/file/031957757a4f6a5191040.jpg",
+    "name": "pops",
+    "description": "python using Telethon.",
+    "logo": "https://graph.org/file/0319577576a5191040.jpg",
     "keywords": [
         "python3"
     ],
@@ -11,12 +11,12 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
+            "description": "api id, from my.telegram.or.",
             "value": "",
             "required": false
         },
         "API_HASH": {
-            "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
+            "description": "hash, from my.telegram.org or @ScrapperRoBot.",
             "value": "",
             "required": false
         },
@@ -25,7 +25,7 @@
             "value": ""
         },
         "REDIS_URL": {
-            "description": "Redis endpoint URL, from redislabs.com",
+            "description": " from redislabs.com",
             "value": ""
         },
         "REDIS_PASSWORD": {
